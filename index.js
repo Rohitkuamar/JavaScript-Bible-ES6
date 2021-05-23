@@ -1,6 +1,6 @@
 /*
 Modify "personInfo" function to match console.log output at the end of the challenge.
-
+Hello
 Object that is returned by "personInfo" function must contain only shorthand property names.
 */
 
